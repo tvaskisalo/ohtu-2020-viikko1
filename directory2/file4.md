@@ -1,1 +1,1 @@
-This is file4 in directory2
+This is the edited version of file4 in directory2
